@@ -2,3 +2,4 @@ numpy~=1.23.5
 python-dotenv~=1.0.0
 environ~=1.0
 matplotlib~=3.7.1
+pandas~=2.0.0
