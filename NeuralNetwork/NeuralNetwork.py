@@ -1,7 +1,7 @@
 import numpy as np
 from matplotlib import pyplot as plt
 
-from Layers import *
+from .Layers import *
 
 
 class NeuralNetwork(object):
