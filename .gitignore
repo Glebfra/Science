@@ -1,3 +1,8 @@
 .data
 venv
 .idea
+
+tests
+*Test.py
+
+*.jpg
