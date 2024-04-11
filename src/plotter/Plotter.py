@@ -59,6 +59,10 @@ class Plotter:
     def save(self, *args, **kwargs):
         self.fig.savefig(*args, **kwargs)
 
+    @override
+    def text(self, *args, **kwargs):
+        self.ax.text(*args, **kwargs)
+
     @staticmethod
     @override
     def show():
